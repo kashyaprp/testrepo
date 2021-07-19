@@ -1,3 +1,3 @@
 module.exports = () => {
-    console.log("Hello React Developers!");
+    console.log("Hello React Native Developers!");
   };
